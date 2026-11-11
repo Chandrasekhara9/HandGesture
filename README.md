@@ -2,6 +2,8 @@
 
 A webcam-driven hand-effects studio with six selectable modes. The browser version processes camera frames and landmarks locally; the camera feed is never recorded. A Python/OpenCV desktop version is also included for direct webcam use.
 
+![Gesture Studio dashboard preview](gesture-studio-dashboard.png)
+
 ## Run the browser studio
 
 ```sh
